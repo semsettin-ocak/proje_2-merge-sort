@@ -19,3 +19,5 @@ Son birleştirmede dizimizi elde ediyoruz.				8	11	12	16	21	22
 2. Big-O gösterimini yazınız.
 
 Recursive bir fonksiyon olduğu için sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından O(n*(logn)) --> O(6*(log6)) olacaktır.
+
+www.patika.dev
